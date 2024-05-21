@@ -16,19 +16,6 @@
     <!--	<properties>-->
     <!--		<java.version>8</java.version>-->
     <!--	</properties>-->
-    <distributionManagement>
-        <repository>
-            <id>ax-release</id>
-            <name>ax-release</name>
-            <url>http://10.206.213.58:8081/repository/maven-public/</url>
-        </repository>
-
-        <snapshotRepository>
-            <id>ax-snapshots</id>
-            <name>ax-snapshot</name>
-            <url>http://10.206.213.58:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
     <properties>
     </properties>
     <dependencies>
